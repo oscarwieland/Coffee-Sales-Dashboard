@@ -1,0 +1,1 @@
+I created an interactive Excel dashboard to visualize coffee sales, utilizing pivot tables to uncover insights about the top customers, leading countries, and various coffee types. This intuitive tool not only simplifies the analysis of past performance but also enhances the ability to compare product success effectively
